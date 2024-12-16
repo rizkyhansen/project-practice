@@ -1,0 +1,19 @@
+istilah git
+- repo folder project kita
+- commit rekaman / snapshot dari repo 
+- hash penanda unik pada sebuah commit
+- checkout berpindah ke sebuah commit
+- branch cabang bebas dari sebuah commit
+- merge menggabungkan branch
+- remote sumber yang memiliki repo
+- clone mengambil repo dari remote
+- push mengirimkan commit ke repo
+- pull mengambil commit dari repo
+
+BRANCH atau cabang
+
+Branching
+- membuat git branch
+- membuat snapshot tanpa mengganggu jalur utama (master branch)
+- bisa membuat fitur experimental
+- 2 orang mengejarkan repo yang sama
