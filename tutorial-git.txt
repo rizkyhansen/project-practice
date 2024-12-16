@@ -17,3 +17,5 @@ Branching
 - membuat snapshot tanpa mengganggu jalur utama (master branch)
 - bisa membuat fitur experimental
 - 2 orang mengejarkan repo yang sama
+
+ini adalah tutorial branch pada git
