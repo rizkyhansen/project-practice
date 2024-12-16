@@ -14,8 +14,9 @@ BRANCH atau cabang
 
 Branching
 - membuat git branch
+  - menambahkan fitur satu
 - membuat snapshot tanpa mengganggu jalur utama (master branch)
-- bisa membuat fitur experimental
+  - menambahkan fitur 3
 - 2 orang mengejarkan repo yang sama
 
 ini adalah tutorial branch pada git
